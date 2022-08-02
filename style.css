@@ -1,0 +1,242 @@
+
+:root {
+  --gris:grey;
+  --verdeOlivo:darkolivegreen;
+  --verdeOlivoClaroTrans:rgba(112, 137, 70, 0.585);
+  --verdeOlivoClaro:rgb(112, 137, 70);
+  --blanco:white;
+  --antiblanco:antiquewhite;
+  --blancoCafe:rgba(129, 73, 0, 0.842);
+  --cafeOscuro:rgb(81, 50, 10);
+  --blancoRosa:rgb(231, 220, 216);
+  --morado:rgb(55, 45, 72);
+  --moradoTrans:rgba(23, 20, 30, 0.877);
+  --rojo:darkred;
+}
+
+* {
+  box-sizing:border-box;
+}
+
+/* h1 {
+  margin: 0%;
+}
+
+h2 {
+  margin: 0%;
+}
+h3 {
+  margin: 0%;
+}
+
+p {
+  margin: 0%;
+} */
+
+body {
+  margin: 0%;
+	padding: 0%;
+	text-decoration: none;
+	box-sizing: border-box;
+  background-color: var(--gris);
+}
+
+header {
+  max-width: 100vw;
+  height: 100px;
+  background-color: var(--blanco);
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  margin: 1% 3%;
+  /* padding: 1% 3%; */
+  
+}
+
+.imgLogo {
+  height: 120%;
+}
+
+.nomLogo {
+  font-family: 'Covered By Your Grace', cursive;
+  font-size: 6rem;
+  color: var(--verdeOlivo);
+  text-decoration: none;
+}
+
+.iso {
+  font-size: 2.2rem;
+  /* font-weight: 100; */
+  font-family: 'Roboto', sans-serif;
+  margin: 1% 2%;
+  display:flex ;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navs {
+  color: var(--verdeOlivo);
+  text-decoration: none;
+  padding: 0% 2%;
+}
+
+#nav2 {
+  width: 320px;
+  border-left: 3px;
+  border-right: 3px;
+  border-top: 0px;
+  border-bottom: 0px;
+  border-color: var(--verdeOlivo);
+  border-style: solid;
+}
+
+.iso :hover {
+  color: var(--verdeOlivoClaroTrans);
+}
+
+/*  */
+
+.home {
+  margin: 0%;
+	padding: 0%;
+  height: 100vh;
+
+  background-image: url(/imagenes/fondo.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: var(--moradoTrans);
+	background-blend-mode: soft-light;
+	background-position: center;
+	background-size: cover;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* .home {
+	margin: 0%;
+	padding: 0%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items:flex-start;
+	width: 100vw;
+	height: 90vh;
+
+	background-image: url(/imagenes/fondo.jpg) ;
+	background-color: rgb(55, 45, 72);
+	background-blend-mode: soft-light;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+} */
+
+
+.eslogan {
+  background-color: var(--verdeOlivo);
+  margin: 0%;
+	padding: 0% 3%;
+  color: antiquewhite;
+  font-size: 6vw;
+  font-family: 'Finlandica', sans-serif;
+}
+
+.BAPE {
+  margin: 0%;
+	padding: 0%;
+  /* background-color: var(--verdeOlivo); */
+  color: var(--blanco);
+  /* color: var(--verdeOlivo); */
+  font-size: 20vw;
+  font-family: 'Covered By Your Grace', cursive;
+}
+
+/*  */
+
+.nuestrosProductos {
+  height: 100vh;
+  margin: 0%;
+  padding: 5% 5%;
+  background-color: var(--cafeOscuro);
+  color: antiquewhite;
+}
+
+.Productos {
+  margin: 0%;
+  font-size: 5rem;
+  padding: 5%;
+  padding-bottom: 2%;
+  display: flex;
+  justify-content: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.productosC {
+  display: flex;
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+}
+
+.cards {
+  background-color: var(--verdeOlivoClaro);
+  margin: 0% 30px;
+  padding: 15px;
+  width:40vw ;
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border: 5px;
+  border-style: solid;
+  border-color: var(--cafeOscuro);
+  border-radius: 5%;
+}
+
+.prueba :hover {
+  border-color: var(--antiblanco  );
+}
+
+.cards h3 {
+  margin: 0%;
+  padding: 0%;
+  font-size: 3rem;
+  font-family: 'Covered By Your Grace', cursive;
+}
+
+
+
+.imgCards {
+  width: 100%;
+  height: 60%;
+
+  background-repeat: no-repeat;
+  background-position: center;
+	background-blend-mode: soft-light;
+	background-position: center;
+	background-size: cover;
+
+  border: 5px;
+
+  border-radius: 5%;
+}
+
+
+#img1Cards {
+  background-image: url(/imagenes/ropTrav.jpg);
+}
+
+#img2Cards {
+  background-image: url(/imagenes/zapaTrav.jpg);
+}
+
