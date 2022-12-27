@@ -127,25 +127,46 @@ header {
   font-family: 'Covered By Your Grace', cursive;
 }
 
+/*  */
+
 .nuestrosProductos {
   height: 100vh;
-  margin: 0%;
-  padding: 5% 5%;
   background-color: var(--cafeOscuro);
   color: antiquewhite;
+
+  background-image: url(/imagenes/cowgirl_spirit_59_36302_3x3_800x800.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: var(--cafeOscuro);
+	background-blend-mode: soft-light;
+	background-position: center;
+	background-size: cover;
+  background-attachment: fixed;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+}
+
+.barra {
+  width: 100%;
+  height: 10vh;
+  background-color: yellow;
+
+  background-image: url(/imagenes/istockphoto-1309730024-170667a.jpg);
 }
 
 .Productos {
   margin: 0%;
   font-size: 5rem;
-  padding: 5%;
-  padding-bottom: 2%;
   display: flex;
   justify-content: center;
   font-family: 'Roboto', sans-serif;
 }
 
 .productosC {
+  margin-bottom: 5vh;
   display: flex;
   align-items: center;
   display: flex;
@@ -204,4 +225,6 @@ header {
 #img2Cards {
   background-image: url(/imagenes/zapaTrav.jpg);
 }
+
+/*  */
 
