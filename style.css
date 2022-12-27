@@ -166,12 +166,10 @@ header {
   border-style: solid;
   border-color: var(--cafeOscuro);
   border-radius: 5%;
-  filter: blur(2px);
 }
 
 .prueba :hover {
   border-color: var(--antiblanco  );
-  filter: blur(0px);
 }
 
 .cards h3 {
