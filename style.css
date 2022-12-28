@@ -96,7 +96,7 @@ header {
   background-image: url(/imagenes/fondo.jpg);
   background-repeat: no-repeat;
   background-position: center;
-  background-color: var(--moradoTrans);
+  background-color: var(--cafeOscuro);
 	background-blend-mode: soft-light;
 	background-position: center;
 	background-size: cover;
