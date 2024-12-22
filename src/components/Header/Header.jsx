@@ -15,7 +15,7 @@ const Header = () => {
           <Button text={"Click Here!"}/>
         </article>
         <section className="header__2">
-          <img src="../public/imgs/AREmoji_20230204_193331_24458.gif" alt="" />
+          <img src="/imgs/AREmoji_20230204_193331_24458.gif" alt="" />
         </section>
       </div>
     </header>
