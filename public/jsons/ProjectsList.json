@@ -1,48 +1,48 @@
 [
     {
       "projectName": "Pokedex app",
-      "projectDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam, quasi!",
+      "projectDescription": "Una app de Pokémon Pokédex permite explorar información detallada sobre cada Pokémon, como tipos, estadísticas, evoluciones y habilidades, ofreciendo una experiencia interactiva para fanáticos y entrenadores.",
       "projectImg": "https://64.media.tumblr.com/4779d457d8a2ab84d32a5a724ef4517f/a442ea7394a73e18-55/s2048x3072/82f0e310e6ff4f2ed9cf6dc2cd4626dd6179dee4.jpg",
-      "projectLink": "https://es.wikipedia.org/wiki/Hola_mundo#Ada",
-      "projectGithub": "https://es.wikipedia.org/wiki/Hola_mundo#Ada",
+      "projectLink": "https://gentle-lokum-e38f38.netlify.app/",
+      "projectGithub": "https://github.com/daviddiazm/Pokedex",
       "projectType": "Front-end",
       "projectLengauge": "React"
     },
     {
       "projectName": "Rick and Morthy App",
-      "projectDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam, quasi!",
-      "projectImg": "https://64.media.tumblr.com/4779d457d8a2ab84d32a5a724ef4517f/a442ea7394a73e18-55/s2048x3072/82f0e310e6ff4f2ed9cf6dc2cd4626dd6179dee4.jpg",
-      "projectLink": "https://es.wikipedia.org/wiki/Hola_mundo#Ada",
+      "projectDescription": "Una app de Rick and Morty muestra personajes, episodios y ubicaciones, permitiendo explorar detalles del universo de la serie de forma interactiva.",
+      "projectImg": "https://external-content.duckduckgo.com/iu/?u=https://m.media-amazon.com/images/M/MV5BZGQyZjk2MzMtMTcyNC00NGU3LTlmNjItNDExMWM4ZDFhYmQ2XkEyXkFqcGc@._V1_.jpg&f=1&h=500",
+      "projectLink": "https://kaleidoscopic-zabaione-8588f7.netlify.app/",
+      "projectGithub": "https://github.com/daviddiazm/Rick-And-Morty-Vite",
+      "projectType": "Front-end",
+      "projectLengauge": "React"
+    },
+    {
+      "projectName": "Gestion de gastos",
+      "projectDescription": "Una app de gestión de gastos ayuda a registrar, categorizar y controlar finanzas personales, promoviendo el ahorro y el manejo eficiente del presupuesto.",
+      "projectImg": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fvector-premium%2Fgestion-ingresos-gastos-personales-estrategia-planificacion-presupuesto-familiar_894471-406.jpg&f=1&nofb=1&ipt=1006ade50d507be2fc0f0ff3890ed6c00e17ba099c0a9688d7636f1d6e409088&ipo=images",
+      "projectLink": "https://gestion-de-gastos.vercel.app/",
+      "projectGithub": "https://github.com/daviddiazm/gestion-de-gastos",
+      "projectType": "Front-end",
+      "projectLengauge": "Vue"
+    },
+    {
+      "projectName": "Lola's Boutique",
+      "projectDescription": "Una app de tienda virtual permite explorar productos en línea, consultar detalles y gestionar pedidos, ofreciendo una experiencia de compra práctica y accesible.",
+      "projectImg": "https://64.media.tumblr.com/6a24b07e74e087e5756402eecd6b6537/601516830f6f0534-f5/s640x960/0149d5a36f040fab262986b0a7429476083eb1ed.jpg",
+      "projectLink": "https://lolasboutique.netlify.app/",
       "projectGithub": "https://es.wikipedia.org/wiki/Hola_mundo#Ada",
       "projectType": "Front-end",
       "projectLengauge": "Angular"
     },
     {
-      "projectName": "App del clima",
-      "projectDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam, quasi!",
-      "projectImg": "https://64.media.tumblr.com/4779d457d8a2ab84d32a5a724ef4517f/a442ea7394a73e18-55/s2048x3072/82f0e310e6ff4f2ed9cf6dc2cd4626dd6179dee4.jpg",
-      "projectLink": "https://es.wikipedia.org/wiki/Hola_mundo#Ada",
-      "projectGithub": "https://es.wikipedia.org/wiki/Hola_mundo#Ada",
+      "projectName": "Cotizador de cripto",
+      "projectDescription": "Una app cotizadora de criptomonedas muestra precios en tiempo real, permite comparar valores y realizar conversiones, facilitando el seguimiento del mercado cripto.",
+      "projectImg": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fholdmerc.com.br%2Fwp-content%2Fuploads%2F2023%2F06%2FCaptura-de-tela-2023-06-13-184712.png&f=1&nofb=1&ipt=f664392b3ab620582c2e2ad1cb5b1bcbb73c72595c73985fc715bbdb4130cc0e&ipo=images",
+      "projectLink": "https://cotizador-cripto-vue.vercel.app/",
+      "projectGithub": "https://github.com/daviddiazm/cotizador-cripto-vue",
       "projectType": "Front-end",
       "projectLengauge": "Vue"
-    },
-    {
-      "projectName": "App del clima2",
-      "projectDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam, quasi!",
-      "projectImg": "https://64.media.tumblr.com/4779d457d8a2ab84d32a5a724ef4517f/a442ea7394a73e18-55/s2048x3072/82f0e310e6ff4f2ed9cf6dc2cd4626dd6179dee4.jpg",
-      "projectLink": "https://es.wikipedia.org/wiki/Hola_mundo#Ada",
-      "projectGithub": "https://es.wikipedia.org/wiki/Hola_mundo#Ada",
-      "projectType": "UX",
-      "projectLengauge": "React"
-    },
-    {
-      "projectName": "App del clima3",
-      "projectDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam, quasi!",
-      "projectImg": "https://64.media.tumblr.com/4779d457d8a2ab84d32a5a724ef4517f/a442ea7394a73e18-55/s2048x3072/82f0e310e6ff4f2ed9cf6dc2cd4626dd6179dee4.jpg",
-      "projectLink": "https://es.wikipedia.org/wiki/Hola_mundo#Ada",
-      "projectGithub": "https://es.wikipedia.org/wiki/Hola_mundo#Ada",
-      "projectType": "UX",
-      "projectLengauge": "React"
     }
   ]
   

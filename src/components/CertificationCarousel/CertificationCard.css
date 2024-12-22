@@ -81,6 +81,13 @@
     left: 2%;
   }
 
+  .img_landin {
+    height: 350px;
+    /* max-height: 350px; */
+    object-fit: cover;
+    /* border-radius: 15px; */
+  }
+
   .landing__1 {
     width: 60%;
   }

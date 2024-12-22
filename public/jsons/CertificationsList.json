@@ -1,20 +1,26 @@
 [
     {
-      "certificationName": "Front end",
-      "certificationImg": "https://1.bp.blogspot.com/-RgtZb2h1f9Y/XIElskgH8sI/AAAAAAAAIbw/NlnGAhGWwpU2iOc0ZGiZjia3O0gFvQlNACLcBGAs/s1600/weather.png",
-      "certificationDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis asperiores sunt illum et accusamusquod, perspiciatis unde cum. Ducimus, voluptatem! y puedes visitarlo ",
+      "certificationName": "Reconocimiento Unimayor",
+      "certificationImg": "https://64.media.tumblr.com/7986cb783de42100b32c47f70ea93282/3e01aa208ead8ed6-a4/s2048x3072/299d8853df726f43773a35f318d6569cab96b4b8.jpg",
+      "certificationDescription": "Un reconocimiento como expositor en el Colegio Mayor del Cauca destaca la contribución académica y el compartir conocimientos valiosos, fortaleciendo el aprendizaje y el desarrollo profesional en la comunidad universitaria. ",
+      "certificationLink": ""
+    },
+    {
+      "certificationName": "SCRUM Master",
+      "certificationImg": "https://media.licdn.com/dms/image/v2/D4E2DAQEqHX16ErXncQ/profile-treasury-document-images_1280/profile-treasury-document-images_1280/1/1733174491523?e=1735776000&v=beta&t=uaIIC3NPq9LInYNIMcM3Z_DIFUlJJZfxmZ7T32OU8GQ",
+      "certificationDescription": "Una certificación internacional en Scrum reconoce competencias en metodologías ágiles, fomentando la gestión eficiente de proyectos y el liderazgo colaborativo en equipos orientados a la entrega de valor continuo.",
+      "certificationLink": "https://www.linkedin.com/in/david-diaz-a845ab25a/details/certifications/1733174498089/single-media-viewer/?profileId=ACoAAD_N1kQBr7dBTWLMHgiCcqvau0Ems2bFins"
+    },
+    {
+      "certificationName": "AWS",
+      "certificationImg": "https://media.licdn.com/dms/image/v2/D4E2DAQGJCsTYVw9RPg/profile-treasury-document-images_1280/profile-treasury-document-images_1280/1/1733174068104?e=1735776000&v=beta&t=7J4jLE3wfN4mY4YH4q4ronMutvFIQ70t5RvBdoyZ_9g",
+      "certificationDescription": "Una certificación internacional en AWS valida habilidades en computación en la nube, arquitectura de soluciones y servicios de Amazon Web Services, destacando la experiencia en entornos tecnológicos innovadores.",
       "certificationLink": "hBorrar esto"
     },
     {
-      "certificationName": "UX",
-      "certificationImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRshIlTW5LsRTn6fR4dMogCRemo8J6N27-NmuN8KAk80TCKiScM4cxiNzZ6G0I9I7-pt1Y&usqp=CAU",
-      "certificationDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis asperiores sunt illum et accusamusquod, perspiciatis unde cum. Ducimus, voluptatem! y puedes visitarlo ",
-      "certificationLink": "hBorrar esto"
-    },
-    {
-      "certificationName": "Unimayor",
-      "certificationImg": "https://1.bp.blogspot.com/-RgtZb2h1f9Y/XIElskgH8sI/AAAAAAAAIbw/NlnGAhGWwpU2iOc0ZGiZjia3O0gFvQlNACLcBGAs/s1600/weather.png",
-      "certificationDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis asperiores sunt illum et accusamusquod, perspiciatis unde cum. Ducimus, voluptatem! y puedes visitarlo ",
+      "certificationName": "Investigador UX",
+      "certificationImg": "https://64.media.tumblr.com/5b1e35ee09174f22ac75ce8bc9c400b1/7e6e319eec36e444-a1/s1280x1920/97972edfd12235d294f81339d7dbb212fdeea3e0.pnj",
+      "certificationDescription": "Una certificación internacional en UX valida habilidades en diseño centrado en el usuario, investigación y usabilidad, impulsando carreras en experiencia de usuario a nivel global.",
       "certificationLink": "hBorrar esto"
     }
 ]
