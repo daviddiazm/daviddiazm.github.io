@@ -8,6 +8,7 @@ import Projects from '../public/jsons/ProjectsList.json'
 import CertificationCard from './components/CertificationCarousel/CertificationCard';
 import Certifications from '../public/jsons/CertificationsList.json'
 import CardProject from './components/CardProject.jsx/CardProject';
+import { downloadCV } from './utils/utils';
 
 function App() {
 
@@ -85,9 +86,8 @@ function App() {
         <div className="contact__box">
           <div className="box">
             <h2>Contact me!</h2>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique, et ipsum dolorem inventore veritatis
-              porro.</p>
-            <Button text={"Click here"} />
+            <p>¡Gracias por visitar mi portafolio! Espero que hayas disfrutado explorando mis proyectos y habilidades. Si deseas saber más sobre mi trayectoria, descarga mi CV a continuación.</p>
+            <Button text={"Descargar CV"} onClick={downloadCV} />
           </div>
         </div>
       </section>
