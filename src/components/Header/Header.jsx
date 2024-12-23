@@ -8,7 +8,7 @@ const Header = () => {
 
 
   return (
-    <header>
+    <header id='home' >
       <Nav />
       <div className='header__home'>
         <article className="header__1">
