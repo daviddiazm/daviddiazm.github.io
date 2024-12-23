@@ -21,16 +21,16 @@ const Nav = () => {
       </button>
       <ul className={"nav__menu "+ toggleClass}>
         <li className="menu__item">
-          <a href="#" className="menu__link">Home</a>
+          <a href="#home" className="menu__link">Inicio</a>
         </li>
         <li className="menu__item">
-          <a href="#" className="menu__link">Service</a>
+          <a href="#landing" className="menu__link">Certificados</a>
         </li>
         <li className="menu__item">
-          <a href="#" className="menu__link">About us</a>
+          <a href="#projects" className="menu__link">Proyectos</a>
         </li>
         <li className="menu__item">
-          <a href="#" className="menu__link">Contact us</a>
+          <a href="#contact" className="menu__link">Contactame</a>
         </li>
       </ul>
     </nav>
