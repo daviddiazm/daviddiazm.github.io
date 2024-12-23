@@ -32,15 +32,15 @@ function App() {
   return (
     <div className='app'>
 
-    <img src="/imgs/png_img/Group 80.png" alt="" class="shape__1" />
-    <img src="/imgs/png_img/Frame 3529.png" alt="" class="shape__2" />
-    <img src="/imgs/png_img/Ellipse.png" alt="" class="shape__3" />
-    <img src="/imgs/png_img/Ellipse.png" alt="" class="shape__4" />
-    <img src="/imgs/png_img/Ellipse.png" alt="" class="shape__5" />
-    <img src="/imgs/png_img/Frame 3529.png" alt="" class="shape__6" />
+    <img src="/imgs/png_img/Group 80.png" alt="" className="shape__1" />
+    <img src="/imgs/png_img/Frame 3529.png" alt="" className="shape__2" />
+    <img src="/imgs/png_img/Ellipse.png" alt="" className="shape__3" />
+    <img src="/imgs/png_img/Ellipse.png" alt="" className="shape__4" />
+    <img src="/imgs/png_img/Ellipse.png" alt="" className="shape__5" />
+    <img src="/imgs/png_img/Frame 3529.png" alt="" className="shape__6" />
 
       <Header />
-      <section className="cards">
+      <section className="cards" id='cards'>
         <div className="cards__container">
           {ListaDeTecnologias.map((e) => {
             return <Card icon={e.icon} textOfTec={e.text} key={e.icon} />
@@ -50,7 +50,7 @@ function App() {
 
 
       {/* certificados */}
-      <section className='landing'>
+      <section className='landing' id='landing'>
         <div className='certifications'>
           <CertificationCard
             certification={Certifications[position]}
@@ -64,7 +64,7 @@ function App() {
         </div>
       </section>
 
-      <section className='Projects__section'>
+      <section className='Projects__section' id='projects'>
         {/* filto para lengujes */}
         {/* <select name="" id="">
           <option value="">All</option>
@@ -82,7 +82,7 @@ function App() {
 
 
       {/* contact */}
-      <section className="contact">
+      <section className="contact" id='contact'>
         <div className="contact__box">
           <div className="box">
             <h2>Contact me!</h2>
