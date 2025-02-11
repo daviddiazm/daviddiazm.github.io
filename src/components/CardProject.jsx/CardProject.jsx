@@ -7,6 +7,7 @@ const CardProject = ({ project }) => {
     React: "https://duckduckgo.com/i/77b282252da85797.png",
     Vue: "https://duckduckgo.com/i/ce95ecdf8fc6089a.png",
     Angular: "https://avatars.githubusercontent.com/u/139426?s=48&v=4",
+    Node: "https://external-content.duckduckgo.com/ip3/nodejs.org.ico"
   }
   const tecnologyIcon = (tecnology) => {
 
