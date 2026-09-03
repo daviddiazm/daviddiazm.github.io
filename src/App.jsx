@@ -9,6 +9,7 @@ import CertificationCard from './components/CertificationCarousel/CertificationC
 import Certifications from '../public/jsons/CertificationsList.json'
 import CardProject from './components/CardProject.jsx/CardProject';
 import { downloadCV } from './utils/utils';
+import ListCardTec from './components/ListCardTec/ListCardTec';
 
 function App() {
 
@@ -40,13 +41,7 @@ function App() {
     <img src="/imgs/png_img/Frame 3529.png" alt="" className="shape__6" />
 
       <Header />
-      <section className="cards" id='cards'>
-        <div className="cards__container">
-          {ListaDeTecnologias.map((e) => {
-            return <Card icon={e.icon} textOfTec={e.text} key={e.icon} />
-          })}
-        </div>
-      </section>
+      <ListCardTec listOfTecnologies={ListaDeTecnologias} />
 
 
       {/* certificados */}

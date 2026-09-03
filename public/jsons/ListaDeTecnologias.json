@@ -1,18 +1,22 @@
 [
         {
                 "text": "JavaScript",
-                "icon": "fa-brands fa-square-js"
+                "icon": "fa-brands fa-square-js",
+                "percentaje": "90%"
         },
         {
                 "text": "HTML 5",
-                "icon": "fa-brands fa-html5"
+                "icon": "fa-brands fa-html5",                
+                "percentaje": "100%"
         },
         {
                 "text": "CSS",
-                "icon": "fa-brands fa-css3-alt"
+                "icon": "fa-brands fa-css3-alt",
+                "percentaje": "80%"
         },
         {
                 "text": "React",
-                "icon": "fa-brands fa-react"
+                "icon": "fa-brands fa-react",                
+                "percentaje": "70%"
         }
 ]

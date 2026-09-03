@@ -1,5 +1,6 @@
 
   .card {
+    position: relative;
     width: 90%;
     max-width: 200px;
     height: 30vh;
@@ -18,3 +19,18 @@
   .card i {
     font-size: 5vh;
   }
+
+  .back_percentaje {
+    position: absolute;
+    z-index: -1;
+    background-color: rgba(240, 248, 255, 0.401);
+    display: flex;
+    justify-self: baseline;
+    width: 100%;
+    border-radius: 20px;
+    bottom: 0px;
+  }
+
+
+
+
