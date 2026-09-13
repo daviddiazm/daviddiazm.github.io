@@ -7,6 +7,7 @@ const Card = ({icon,textOfTec, percentaje}) => {
       <i className={`${icon} card__icon`}></i>
       <h3>{textOfTec}</h3>
       <div className='back_percentaje' style={{height: percentaje}} ></div>
+      {percentaje ? <p>{percentaje}</p> : ""}
     </div>
   )
 }

@@ -10,6 +10,9 @@ import Certifications from '../public/jsons/CertificationsList.json'
 import CardProject from './components/CardProject.jsx/CardProject';
 import { downloadCV } from './utils/utils';
 import ListCardTec from './components/ListCardTec/ListCardTec';
+import tecnicoVsIng from '../public/audio/6ca8bd3b-b622-4995-90fc-a8faeb85a0ce.mp3';
+import TecVsIng from './components/TecVsIng/TecVsIng';
+
 
 function App() {
 
@@ -33,15 +36,17 @@ function App() {
   return (
     <div className='app'>
 
-    <img src="/imgs/png_img/Group 80.png" alt="" className="shape__1" />
-    <img src="/imgs/png_img/Frame 3529.png" alt="" className="shape__2" />
-    <img src="/imgs/png_img/Ellipse.png" alt="" className="shape__3" />
-    <img src="/imgs/png_img/Ellipse.png" alt="" className="shape__4" />
-    <img src="/imgs/png_img/Ellipse.png" alt="" className="shape__5" />
-    <img src="/imgs/png_img/Frame 3529.png" alt="" className="shape__6" />
+      <img src="/imgs/png_img/Group 80.png" alt="" className="shape__1" />
+      <img src="/imgs/png_img/Frame 3529.png" alt="" className="shape__2" />
+      <img src="/imgs/png_img/Ellipse.png" alt="" className="shape__3" />
+      <img src="/imgs/png_img/Ellipse.png" alt="" className="shape__4" />
+      <img src="/imgs/png_img/Ellipse.png" alt="" className="shape__5" />
+      <img src="/imgs/png_img/Frame 3529.png" alt="" className="shape__6" />
 
       <Header />
       <ListCardTec listOfTecnologies={ListaDeTecnologias} />
+
+      <TecVsIng audio={tecnicoVsIng} />
 
 
       {/* certificados */}
